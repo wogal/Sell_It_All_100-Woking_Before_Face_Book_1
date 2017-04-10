@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Sell_it_All_100\Sell_It_All_100-Woking_Before_Face_Book_100\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6943f049ba92227d3b4ec802755ac40e9b7fd209">
+        <dex dex="C:\Sell_it_All_100\Sell_It_All_100-Woking_Before_Face_Book_100\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1f6ba0a9a21586035ea667e403a1dcf3fdab2490\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Sell_it_All_100\Sell_It_All_100-Woking_Before_Face_Book_100\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Sell_it_All_100\Sell_It_All_100-Woking_Before_Face_Book_100\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cd1a7092a4fa9d46268972634b57e38f62357e06\classes.dex" />
+    </item>
+
+</items>
