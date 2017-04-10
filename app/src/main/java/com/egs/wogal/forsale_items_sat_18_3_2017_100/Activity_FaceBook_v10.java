@@ -19,6 +19,7 @@ import com.facebook.login.widget.LoginButton;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
+// wogal
 public class Activity_FaceBook_v10 extends AppCompatActivity implements View.OnClickListener {
 
     private LoginButton mFaceBookLoginButton;
